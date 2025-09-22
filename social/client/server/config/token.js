@@ -12,3 +12,6 @@ const genToken = async (id) =>{
 }
 
 export default genToken;
+
+
+// CSRF - cross site request forgery
